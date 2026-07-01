@@ -277,7 +277,7 @@ export function SettingsPage() {
 
           <div className="flex flex-col gap-3 sm:flex-row">
             <a
-              href="https://github.com/"
+              href="https://github.com/Jasonfuentess/business-admin-dashboard"
               target="_blank"
               rel="noreferrer"
               className="inline-flex h-11 items-center justify-center gap-2 rounded-xl border border-slate-200 bg-white px-4 text-sm font-semibold text-slate-700 transition hover:bg-slate-100 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200 dark:hover:bg-slate-800"
@@ -287,7 +287,7 @@ export function SettingsPage() {
             </a>
 
             <a
-              href="https://github.io/"
+              href="https://jasonfuentess.github.io/business-admin-dashboard/"
               target="_blank"
               rel="noreferrer"
               className="inline-flex h-11 items-center justify-center gap-2 rounded-xl bg-indigo-600 px-4 text-sm font-semibold text-white transition hover:bg-indigo-700"
