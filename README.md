@@ -32,9 +32,9 @@ https://github.com/Jasonfuentess/business-admin-dashboard
 
 ### Dark Mode
 
-![Dark Mode](./screenshots/darkmode.png)
+![Dark Mode](./screenshots/dark-mode.png)
 ### Mobile Side Bar
-![Mobile Side Bar](./screenshots/mobilesidebar.png)
+![Mobile Side Bar](./screenshots/mobile-sidebar.png)
 ## Features
 
 Responsive dashboard layout
