@@ -103,31 +103,31 @@ Deployment using GitHub Pages
 
 ## How to Run Locally
 
-Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/TU-USUARIO/business-admin-dashboard.git
 
-Go to the project folder:
+### Go to the project folder:
 
 cd business-admin-dashboard
 
-Install dependencies:
+### Install dependencies:
 
 npm install
 
-Run the development server:
+### Run the development server:
 
 npm run dev
 
-Run lint:
+### Run lint:
 
 npm run lint
 
-Create a production build:
+### Create a production build:
 
 npm run build
 
-Preview the production build:
+### Preview the production build:
 
 npm run preview
 
@@ -135,7 +135,7 @@ npm run preview
 
 This project is deployed using GitHub Pages.
 
-To deploy:
+### To deploy:
 
 npm run deploy
 
