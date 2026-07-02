@@ -12,12 +12,30 @@ https://jasonfuentess.github.io/business-admin-dashboard/
 
 https://github.com/Jasonfuentess/business-admin-dashboard
 
-## Preview
+
 ```md
+## Preview
+### Dashboard
+
 ![AdminFlow Dashboard](./screenshots/dashboard.png)
+
+### Orders Page
+
 ![Orders Page](./screenshots/orders.png)
+
+### Customers Page
+
 ![Customers Page](./screenshots/customers.png)
 
+### Settings Page
+
+![Settings Page](./screenshots/settings.png)
+
+### Dark Mode
+
+![Dark Mode](./screenshots/darkmode.png)
+### Mobile Side Bar
+![Mobile Side Bar](./screenshots/mobilesidebar.png)
 ## Features
 
 Responsive dashboard layout
